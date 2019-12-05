@@ -7,7 +7,7 @@ public class Main {
 			
 		System.out.print("Hello World!");
 
-		System.out.print("New Branch!");
+		System.out.print("1: Test Branch!");
 	}
 
 }
